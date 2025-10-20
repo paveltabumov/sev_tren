@@ -227,7 +227,7 @@ footer {
   }
 
   .nav-buttons {
-    flex-direction: column;
+    flex-direction: row;
     justify-content: left;
     gap: 8px;
   }
@@ -293,8 +293,3 @@ footer {
     line-height: 1.4;
   }
 }
-
-
-
-
-
