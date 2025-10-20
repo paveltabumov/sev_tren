@@ -195,6 +195,15 @@ footer {
     flex: 1;
 }
 
+.rights span{
+    color: #002f6c;
+    font-size: 0.8em;
+    font-weight: normal;
+    margin: 0;
+    text-align: center;
+    flex: 1;
+}
+
 .support {
     color: #002f6c;
     font-size: 0.9em;
