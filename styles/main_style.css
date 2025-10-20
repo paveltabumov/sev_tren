@@ -204,7 +204,7 @@ footer {
     line-height: 1.4;
 }
 
-@media (max-width: 1080px) {
+@media (max-width: 1200px) {
   nav {
     height: auto;
     justify-content: space-between; 
@@ -294,5 +294,6 @@ footer {
   }
 
 }
+
 
 
