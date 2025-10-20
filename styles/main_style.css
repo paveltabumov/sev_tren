@@ -204,7 +204,7 @@ footer {
     line-height: 1.4;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1080px) {
   nav {
     height: auto;
     display: flex;
@@ -293,6 +293,7 @@ footer {
     line-height: 1.4;
   }
 }
+
 
 
 
