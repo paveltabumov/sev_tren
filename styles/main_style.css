@@ -41,7 +41,8 @@ nav img {
 }
 
 .nav-buttons {
-    flex-direction: column;
+    display: flex;
+    flex-direction: row;
     gap: 10px; 
     flex-shrink: 0; 
 }
@@ -293,4 +294,5 @@ footer {
   }
 
 }
+
 
