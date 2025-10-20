@@ -104,7 +104,7 @@
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
   #game {
     max-width: 95%;
     padding: 10px;
@@ -143,3 +143,4 @@
     gap: 8px;
   }
 }
+
