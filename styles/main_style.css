@@ -99,13 +99,12 @@ nav img {
     color: #002f6c;
     font-size: 1.1em;
     line-height: 1.6;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     text-align: justify; 
 }
 
 .intro:last-child {
-    margin-bottom: 0;
-    color: #00635b; 
+    margin-bottom: 0; 
     font-weight: bold;
 }
 
@@ -301,4 +300,5 @@ footer {
   .intro {
     line-height: 1.4;
   }
+
 }
